@@ -1,6 +1,6 @@
 # Twitter API Tester
 
-This repository contains a simple Python script to test Twitter API authentication and posting capabilities. It's designed to help developers navigate the complexities of Twitter's API authentication process and verify their setup before embarking on larger Twitter automation projects.
+This repository contains a simple Python script to test Twitter API authentication and posting capabilities. It's designed to help developers navigate Twitter's API authentication process and verify their setup before embarking on larger Twitter automation projects.
 
 ## Table of Contents
 
@@ -22,7 +22,7 @@ Twitter's Developer Portal can be confusing, especially if you're just looking t
 
 A key point to note is that Twitter requires setting up OAuth 2.0 authentication first, even if you're using OAuth 1.0a for posting tweets. This script helps you navigate this quirk and ensure everything is working as expected.
 
-Why not use OAuth 2.0? Because the setup is much more complicated and its unnecesary for just posting personal tweets. Oauth1.0a works fine for that and is a breeze to setup.
+Why not use OAuth 2.0? Because the setup is more complicated and its unnecesary for just posting personal tweets. Oauth1.0a works fine for that and is a breeze to setup.
 
 ## Twitter Developer Portal Setup
 
